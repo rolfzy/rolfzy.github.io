@@ -1,0 +1,25 @@
+.ininav {
+
+font-size: 20px;
+
+}
+.jumbotron{
+    height: 400px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(135, 7, 221);
+}
+.jumbotron img{
+    margin-top: 3rem;
+}
+#About{
+    height: 300px;
+}
+
+#Project{
+    background-color: #5000CA;
+}
+
+section{
+    padding-top: 5rem;
+}
